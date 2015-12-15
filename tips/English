@@ -14,6 +14,7 @@ loosely coupled
 Assume 
 instantiable
 necessary
+
 caution
 Liskov substitution principle
 suddenly 
@@ -23,3 +24,5 @@ caring
 hassle
 cascade
 facilitate
+retrieving
+variety

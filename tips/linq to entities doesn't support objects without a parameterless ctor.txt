@@ -1,0 +1,25 @@
+Message is clear : linq to entities doesn't support objects without a parameterless ctor.
+
+So
+
+Solution1
+
+enumerate before (or use an intermediate anonymous type and enumerate on that one)
+
+.ToList()
+.Select(x => new FundedCount(
+                    x.Key.BuyerId,
+                    x.Count() / 30 * daysInMonth))
+                .ToList();
+Solution2
+
+add a parameterless ctor to your FundedCount class (if it's possible)
+
+public FundedCount() {}
+and use
+
+.Select(x => new FundedCount{
+                        <Property1> = x.Key.BuyerId,
+                        <Property2> = x.Count() / 30 * daysInMonth
+                         })
+                    .ToList();

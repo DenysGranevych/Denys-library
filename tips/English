@@ -14,7 +14,6 @@ loosely coupled
 Assume 
 instantiable
 necessary
-
 caution
 Liskov substitution principle
 suddenly 
@@ -40,7 +39,6 @@ retrieve
 repetitive 
 scratch
 aware
-Suppose 
 Besides
 involve 
 statements
@@ -48,3 +46,4 @@ Essentially
 negotiation
 predefined 
 means
+

@@ -14,14 +14,14 @@ loosely coupled
 Assume 
 instantiable
 necessary
+
 caution
-substitution
+Liskov substitution principle
 suddenly 
 violate 
 heavily 
 caring 
 hassle
-
 cascade
 facilitate
 retrieving

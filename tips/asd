@@ -1,0 +1,25 @@
+   
+                    //Stopwatch sw = new Stopwatch();
+                    //sw.Start();
+
+
+//sw.Stop();
+                    ////start test
+                    //string path = AppDomain.CurrentDomain.BaseDirectory;
+                    //string strLogfile = Path.Combine(path, "audio.txt");
+
+                    //using (var _writer = new StreamWriter(strLogfile, true, Encoding.UTF8))
+                    //{
+                    //    _writer.WriteLine(sw.Elapsed.ToString());
+                    //    _writer.AutoFlush = true;
+                    //}
+
+
+//var videoUrl = videoInfo.DownloadUrl;
+
+//download
+                    //string downloadPath = Path.Combine(destinationDirectory, Guid.NewGuid().ToString() + ".mp4");
+                    //WebClient client = new WebClient();
+                    //client.DownloadFile(videoUrl, downloadPath);
+
+                                        //process.StartInfo.Arguments = string.Format(@"-i ""{0}"" -acodec pcm_s16le -ar 8000 -ac 1 -f wav ""{1}""", downloadPath, destinationPath);

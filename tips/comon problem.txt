@@ -1,0 +1,2 @@
+Problem: IHttpActionResult not found
+solve: update-Package Microsoft.AspNet.WebApi –reinstall

@@ -1,0 +1,7 @@
+Model Tree Structures:
+-Parent References
+-Child References
+-Array of Ancestors
+-Materialized Paths
+-Nested Sets
+Data Model Design

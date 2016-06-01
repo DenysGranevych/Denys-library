@@ -1,83 +1,81 @@
-restricted
+restricted обмежений
 instances 
-mentioning 
+mentioning mentioning 
 intentions
-enforce 
-regarding 
-Although
+enforce забезпечувати дотримання
+regarding щодо
+Although хоча
 robust 
 pillar 
 advantage 
 chain 
 holds
-loosely coupled 
+loosely coupled слабо зв'язаної
 Assume 
 instantiable
-necessary
+necessary необхідно
 
-caution
+caution обережність
 Liskov substitution principle
 suddenly 
-violate 
-heavily 
+violate порушувати
+heavily сильно
 caring 
-hassle
+hassle сутичка
 cascade
-facilitate
-retrieving
-variety
-distinguish
+facilitate полегшувати
+retrieving отримання
+variety різноманітність
+distinguish розрізняти
 poll
-whole
-useful
-retrieve 
+whole whole
+useful корисним
+retrieve витягувати
 further 
 inspect 
-our
-relay 
-Suppose
-retrieve 
+our наш
+relay реле
+Suppose припускати
 repetitive 
-scratch
-aware
-Besides
-involve 
-statements
-Essentially
-negotiation
-predefined 
-means
+scratch подряпина
+aware знати
+Besides крім
+involve залучати
+statements заяви
+Essentially по суті
+negotiation переговори
+predefined зумовлений
+means засоби
 
-forth
-approach 
-shaping up
-semicolon
-enough
-can Purchase
-Toggles 
-currency
-least 
-Decouple 
-Issued 
-Expires 
-boundaries
+forth уперед
+approach підхід
+shaping up складається
+semicolon ;
+enough достатньо
+can Purchase можна придбати
+Toggles включення або виключення(костиль)
+currency валюта
+least як мінімум
+Decouple роз'єднувати
+Issued Виданий
+Expires Завершується
+boundaries кордону
 influence вплив
 impact поштовх
-enough 
 immutable
-mess 
-inconvenient 
-jeopardize
-integrity 
-Comprises
-stark 
-influence 
-probing 
-tampering
-bottleneck 
-obviously 
-offer 
-specify 
+mess безлад
+inconvenient незручний
+jeopardize наражати на небезпеку
+integrity цілісність
+Comprises включає
+stark застиглий
+influence вплив
+probing зондування
+tampering підробка
+bottleneck вузьке місце
+obviously очевидно
+offer пропозиція
+specify вказувати
 
 daunting лякає
 convenient зручний
@@ -89,3 +87,5 @@ collaboration співробітництво
 streamline раціоналізувати
 dedicated відданий
 handful  жменю
+accomplish виконувати
+supplement доповнення

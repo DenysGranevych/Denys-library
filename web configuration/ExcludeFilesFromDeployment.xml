@@ -1,0 +1,1 @@
+<ExcludeFilesFromDeployment>web.config;Web.Debug.config</ExcludeFilesFromDeployment> 

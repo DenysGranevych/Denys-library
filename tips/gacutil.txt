@@ -1,0 +1,6 @@
+D:\Projects\VsConsole\TestGAC\TestGAC\TestGAC\bin\Debug\Denys.Granevych.TestGAC.dll
+
+
+using Denys.Granevych.TestGAC.Implementations;
+C:\Windows\system32>gacutil.exe -I D:\Projects\VsConsole\TestGAC\TestGAC\TestGAC
+\bin\Debug\Denys.Granevych.TestGAC.dll

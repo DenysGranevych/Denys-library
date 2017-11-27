@@ -1,0 +1,14 @@
+$http
+    .get(url)
+    .success(function(data) {
+        // Handle data
+    })
+    .error(function(data, status) {
+        // Handle HTTP error
+    })
+    .finally(function() {
+        // Execute logic independent of success/error
+    })
+    .catch(function(error) {
+        // Catch and handle exceptions from success/error/finally functions
+    });

@@ -1,0 +1,2 @@
+var ivan = angular.element(document.querySelector('body')).injector().get('$localStorage')
+ivan.authorizationData["token"] = '5'

@@ -4,14 +4,17 @@ git remote add First
 git remote add First ./bundle
 git remote remove First
 
-
 //create
  git bundle create bundle origin/master master
-###
-
-case sensitive file renaming
+###  case sensitive file renaming
 
 git mv --force myfile MyFile
 
+###  case sensitive file renaming
 
- 
+### Merge remote branch origin/foo into local branch foo,
+# without having to checkout foo first:
+
+git fetch origin foo:foo
+
+### 
